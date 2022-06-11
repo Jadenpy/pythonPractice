@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- encoding: utf-8 -*-
 """
-@File    :   QTextEditDemo.py    
+@File    :   QRadioButtonDemo.py
 @Contact :   huxinsheng2015@icloud.com
 @License :   (C)Copyright 2017-2021
 
